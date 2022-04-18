@@ -1,0 +1,9 @@
+# Here we add all the required imports and versions
+# This is a sample of how it should be set up 
+
+numpy==1.21.1
+transformers==4.11.3
+nltk==3.6.5
+regex==2021.10.8
+argparse==1.4.0
+ 
